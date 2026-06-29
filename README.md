@@ -24,9 +24,8 @@ Automated API test suite for \[JSONPlaceholder](https://jsonplaceholder.typicode
 
 ```bash
 
-git clone <this-repo-url>
-
-cd reqres-api-tests
+git clone https://github.com/aryarajasekharanar-glitch/jsonplaceholder-api-tests.git
+cd jsonplaceholder-api-tests
 
 python -m venv venv
 
