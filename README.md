@@ -57,7 +57,6 @@ pytest -v test\_jsonplaceholder\_api.py
 
 | # | Test Case | Endpoint | Method | What It Validates |
 
-|---|-----------|----------|--------|---------------------|
 
 | 1 | Get an existing post | `/posts/1` | GET | Status 200; response schema matches expected keys/types (`userId`, `id`, `title`, `body`) |
 
